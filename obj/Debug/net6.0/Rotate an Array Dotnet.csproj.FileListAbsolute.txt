@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\Rotate an Array Dotnet.exe
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\Rotate an Array Dotnet.deps.json
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\Rotate an Array Dotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\Rotate an Array Dotnet.dll
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\ref\Rotate an Array Dotnet.dll
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\bin\Debug\net6.0\Rotate an Array Dotnet.pdb
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.dll
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\ref\Rotate an Array Dotnet.dll
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.pdb
+C:\Users\Lenovo\Desktop\Rotate an Array Dotnet\obj\Debug\net6.0\Rotate an Array Dotnet.genruntimeconfig.cache
